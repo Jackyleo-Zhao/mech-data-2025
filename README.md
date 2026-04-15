@@ -11,11 +11,6 @@
 - **获奖情况**：国家二等奖
 - **仓库名称**：`mech-data-2025`
 
-## 联系方式
-
-- **队长**：赵明艳
-- **邮箱**：`zhaomingyan@stu.shmtu.edu.cn`
-
 ## 项目定位
 
 本仓库不是比赛现场原始代码的直接堆叠，而是面向科研展示场景完成的赛后整理版本。整理重点不在于“重新包装代码”，而在于更清晰地呈现一个完整的问题求解链条：
@@ -92,3 +87,8 @@ mech-data-2025/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
+
+## 联系方式
+
+- 邮箱：zhaomingyan@stu.shmtu.edu.cn
